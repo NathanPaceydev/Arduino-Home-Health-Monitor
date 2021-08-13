@@ -1,7 +1,4 @@
 /* DHT library
-
-MIT license
-written by Adafruit Industries
 */
 
 #include "DHT.h"
